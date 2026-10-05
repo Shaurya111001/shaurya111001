@@ -259,7 +259,7 @@ B.Tech Computer Science · 2019–2023 · **GPA: 8.6/10**
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaurya111001&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaurya111001&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="95%"/>
 
 </div>
 
@@ -267,17 +267,17 @@ B.Tech Computer Science · 2019–2023 · **GPA: 8.6/10**
 
 ## 🐍 Contribution Matrix
 
-Once the profile repository has the GitHub Actions workflow that generates the contribution snake, this section can display the animated contribution graph:
+<div align="center">
 
-```html
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="GitHub contribution snake" src="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaurya111001/Shaurya111001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaurya111001/Shaurya111001/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shaurya111001/Shaurya111001/output/github-snake.svg" width="95%" />
 </picture>
-```
 
-> **Setup:** add the `Platane/snk@v3` GitHub Action to generate `github-snake.svg` and `github-snake-dark.svg` automatically.
+</div>
+
+> The SVG is generated automatically by GitHub Actions from the contribution calendar.
 
 ---
 
